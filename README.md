@@ -26,9 +26,3 @@ Hi there! I'm Trander, a Data Engineer, specializing in building systems to coll
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/trander-25"><img src="https://github-readme-stats.vercel.app/api?username=trander-25&show_icons=true&hide=prs,issues,contribs&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="trander-25's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/trander-25/RBAC-Permissions-Nodejs-Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trander-25&repo=RBAC-Permissions-Nodejs-Backend&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/trander-25/RBAC-Permissions-React-Frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trander-25&repo=RBAC-Permissions-React-Frontend&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/trander-25/2FA-Two-Factor-Authentication-Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trander-25&repo=2FA-Two-Factor-Authentication-Backend&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/trander-25/2FA-Two-Factor-Authentication-Frontend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=trander-25&repo=2FA-Two-Factor-Authentication-Frontend&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
