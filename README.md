@@ -6,7 +6,15 @@
 
 ---
 
-# Contact Me :
+
+# 👨🏻‍💻 About Me
+  <p>
+    I am a Data Engineer passionate about building reliable data pipelines,
+    transforming raw data into meaningful insights, and designing scalable data
+    systems that support better business decisions.
+  </p>
+
+# Contact Me:
 
 <p>
 
