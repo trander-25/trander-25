@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi 👋 My name is Trander</h1>
+<h1 align="center">Hi 👋 My name is Vinh</h1>
 
 <h3 align="center">Data Engineer | Backend Developer | Practical AI Enthusiast</h3>
 
