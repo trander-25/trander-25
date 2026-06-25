@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋 My name is Vinh</h1>
 
-<h3 align="center">Data Engineer | Backend Developer | Practical AI Enthusiast</h3>
+<h3 align="center">Data Engineer | Data Analyst | Practical AI Enthusiast</h3>
 
 ---
 
